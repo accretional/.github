@@ -1,5 +1,5 @@
 # About
 
-mplode.ai is an early stage startup making it easy to develop for the cloud with GenAI.
+Accretional is an early stage startup making it easy to develop for the cloud with GenAI.
 
-Dying to learn more? Sign up for email updates on our [website](https://mplode.ai), join our [subreddit](https://reddit.com/r/mplodeai), and check out our [discord](https://discord.gg/mplodeai).
+Dying to learn more? Sign up for email updates on our [website](https://accretional.com), join our [subreddit](https://reddit.com/r/accretional), and check out our [discord](https://discord.gg/accretional).
