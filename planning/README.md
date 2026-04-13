@@ -18,4 +18,4 @@ The goal here is to model how strong models will understand / parse these docs s
 
 Also, sharing the actual output to provide explanations for the plans using strong models for free to people who might be interested in that or inclined to create them themsevles.
 
-Hoping this will be useful for smaller models too, exploring the teacher pattern and COT caching to help them with inference while we work on building the "Accretional Center for smol LLMs Who Can't Read Inference Good and Who Wanna Learn to Do Other Stuff Good Too"
+Hoping this will be useful for smaller models too, exploring the teacher pattern and COT caching to help them with inference while we work on building the "Accretional Center for smol LLMs Who Can't Run Inference Good and Who Wanna Learn to Do Other Stuff Good Too"
