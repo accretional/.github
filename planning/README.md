@@ -22,4 +22,4 @@ Hoping this will be useful for smaller models too, exploring the teacher pattern
 
 ### Explantion Editorialis
 
-When necessary or useful we should also create ```planning/explanation-editorials/<doc1>-<doc2>-<model>-explanation.md``` to revise or correct any of the generated LLM output we think could be misleading/harmful/confusing/unnecessary. Creating the first one for ```13-4-2026-4.6opus-explanation.md```
+When necessary or useful we should also create ```planning/explanation-editorials/<doc1>-<doc2>-<model>-explanation.md``` to revise or correct any of the generated LLM output we think could be misleading/harmful/confusing/unnecessary. Creating the first one for ```13-4-2026-with-README-4.6opus-explanation.md```
